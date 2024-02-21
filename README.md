@@ -55,15 +55,15 @@ Si encuentras algún error o tienes alguna sugerencia de mejora, no dudes en abr
 
 -Generar informe:
 
-    1. Selecciona la opción "Generar informe" del menú para obtener un informe detallado sobre tus gastos e ingresos.
+    1. Selecciona la opción "Generar informe" del menú para obtener un informe detallado sobre tus gastos e ingresos.  # codigo no implementado
 
 -Generar gráfico:
 
-    1. Selecciona la opción "Generar gráfico" del menú para visualizar gráficamente tus gastos e ingresos.
+    1. Selecciona la opción "Generar gráfico" del menú para visualizar gráficamente tus gastos e ingresos. # codigo no implementado
 
 -Autenticar usuario:
 
-    1. Selecciona la opción "Autenticar usuario" del menú para iniciar sesión y proteger tus datos financieros.
+    1. Selecciona la opción "Autenticar usuario" del menú para iniciar sesión y proteger tus datos financieros.  # codigo no implementado
 
 -Casos de Prueba:
 
@@ -83,6 +83,8 @@ Si encuentras algún error o tienes alguna sugerencia de mejora, no dudes en abr
     1. Intentar agregar una transacción con datos inválidos (monto no numérico, fecha inválida, etc.).
     2. Intentar listar transacciones cuando no hay transacciones registradas.
     3. Intentar cargar datos desde un archivo inexistente.
+
+Con esta implementación fácil y clara de nuestro código podemos podemos llevar un control de y manejo de nuestros ingresos y gastos económicos, ahora asegúrate de hacer todas las pruebas necesarias para poder comprobar las funcionalidades de la aplicación.
 
 -Autor
 
